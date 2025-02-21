@@ -45,6 +45,6 @@ Crée une instance du capteur avec les broches spécifiées.
 Retourne la distance mesurée en centimètres.
 
 ## Auteur
-- **TonNom** - [GitHub](https://github.com/thegamedevfr)
+- thegamedevfr - [GitHub](https://github.com/thegamedevfr)
 
 
