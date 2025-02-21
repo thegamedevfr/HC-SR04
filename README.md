@@ -6,7 +6,7 @@ HC_SR04 est une bibliothèque Arduino permettant de simplifier l'utilisation du 
 ## Installation
 
 ### Installation manuelle
-1. Téléchargez le code source depuis [GitHub](https://github.com/TonCompte/HC_SR04).
+1. Téléchargez le code source depuis [GitHub](https://github.com/thegamedevfr/HC-SR04).
 2. Placez le dossier `HC_SR04` dans le répertoire `libraries` d'Arduino.
 3. Redémarrez l'IDE Arduino.
 
@@ -45,7 +45,6 @@ Crée une instance du capteur avec les broches spécifiées.
 Retourne la distance mesurée en centimètres.
 
 ## Auteur
-- **TonNom** - [GitHub](https://github.com/TonCompte)
+- **TonNom** - [GitHub](https://github.com/thegamedevfr)
 
-## Licence
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
